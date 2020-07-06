@@ -1,8 +1,6 @@
-<? 
+<?php
   require_once "validador_acesso.php";
-  
 ?>
-
 <html>
   <head>
     <meta charset="utf-8" />
@@ -28,7 +26,7 @@
       </a>
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link" href="logoff.php">SAIR</a>
+          <a class="nav-link" href="logoff.php">Sair</a>
         </li>
       </ul>
     </nav>
@@ -49,9 +47,9 @@
                   </a>
                 </div>
                 <div class="col-6 d-flex justify-content-center">
-                  <a href="consultar_chamado.php">
-                    <img src="formulario_consultar_chamado.png" width="70" height="70">
-                  </a>
+                <a href="consultar_chamado.php">
+                  <img src="formulario_consultar_chamado.png" width="70" height="70">
+                </a>
                 </div>
               </div>
             </div>

@@ -24,3 +24,4 @@ Funções; <br/>
 Array; <br/>
 False, null, empty; <br/>
 Loops; <br/>
+Include, require, include_once; <br/>
